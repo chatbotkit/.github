@@ -17,8 +17,6 @@ ChatBotKit helps you create conversational AI solutions with custom data and abi
 
 ## Main Packages
 
-The ChatBotKit Node SDK is comprised of the following packages:
-
 | Package                                                                                    | Version                                                                                                             | Description                                    |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | [@chatbotkit/cli](https://github.com/chatbotkit/node-sdk/tree/main/packages/cli)           | [![NPM](https://img.shields.io/npm/v/@chatbotkit/cli.svg)](https://www.npmjs.com/package/@chatbotkit/cli)           | The ChatBotKit CLI.                            |
@@ -30,20 +28,9 @@ The ChatBotKit Node SDK is comprised of the following packages:
 
 ## Other Tools
 
-This repository also contains the following tools:
-
 | Package                                                                                 | Version                                                                                                 | Description                                   |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | [create-cbk-app](https://github.com/chatbotkit/node-sdk/tree/main/tools/create-cbk-app) | [![NPM](https://img.shields.io/npm/v/create-cbk-app.svg)](https://www.npmjs.com/package/create-cbk-app) | A quick tool to create a new CBK application. |
-
-## SDK Features
-
-- **Easy Setup**: Quick and straightforward installation process.
-- **Serverless Compatibility**: Works seamlessly with modern runtime environments like Serverless, Edge, Vercel, Netlify, Cloudflare Workers, Deno, AWS Lambda, and more.
-- **Modern Framework Support**: Built-in support for CommonJS, ECMAScript Modules, async/await, streams, etc.
-- **Customizability**: Tailor the chatbot’s behavior and responses to fit specific use cases.
-- **Multi-Platform**: Deploy chatbots on websites, mobile apps, and messaging platforms like Slack, Discord, and WhatsApp.
-- **Multi-Model**: Support for a wide range of language models, including GPT-3, GPT-4, Claude, and more.
 
 ## ChatBotKit Capabilities
 
