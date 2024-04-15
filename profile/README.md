@@ -13,11 +13,7 @@
     "Y8888P"  8888888P"  888    Y88b .ai
 ```
 
-# ChatBotKit Node SDK
-
-Welcome to the ChatBotKit Node SDK. This SDK offers a JavaScript-based platform for effortlessly building conversational AI bots and agents. With [ChatBotKit](https://chatbotkit.com), you can swiftly develop and deploy AI bots capable of natural language interactions.
-
-This is a meta repository for the ChatBotKit Node SDK. It contains the SDK packages for a number of popular platforms and frameworks such as **React**, **Next.js**, **NextAuth** and more.
+ChatBotKit helps you create conversational AI solutions with custom data and abilities to communicate naturally with users in your App, Website, Slack, Discord WhatsApp and Facebook Messenger.
 
 ## Main Packages
 
