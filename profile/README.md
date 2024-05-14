@@ -50,3 +50,8 @@ ChatBotKit helps you create conversational AI solutions with custom data and abi
 - 🕵 **Privacy Focus**: Strong privacy controls to ensure responsible data handling.
 - 🚫 **Content Moderation**: Automatic scanning and flagging of abusive content.
 - 💵 **Simple Pricing**: Transparent and straightforward pricing.
+
+## Built With ChatBotKit
+- [FormShare](https://formshare.ai/) - Create conversational AI forms with Formshare — no code required, just describe your form and let AI do the rest.
+- [PeopleAI](https://people.ai/) - Experience history like never before with our AI chatbots, allowing you to converse with and learn from some of the most influential and significant figures in human history.
+- [AskNotion](https://asknotion.app/) - Create your personal ChatGPT-like chatbot that is trained on your Notion Pages. - No coding required.
