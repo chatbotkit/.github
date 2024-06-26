@@ -55,3 +55,7 @@ ChatBotKit helps you create conversational AI solutions with custom data and abi
 - [FormShare](https://formshare.ai/) - Bring your forms to life with generative UI.
 - [PeopleAI](https://people.ai/) - Experience history like never before with our AI chatbots.
 - [AskNotion](https://asknotion.app/) - Create your personal ChatGPT-like chatbot that is trained on your Notion Pages.
+
+## Fun Examples from Our Hub
+
+- [AI Joke Generator](https://chatbotkit.com/hub/skillsets/clxvu5cic0yht4ccj026rc6ta)
