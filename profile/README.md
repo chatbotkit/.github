@@ -58,4 +58,5 @@ ChatBotKit helps you create conversational AI solutions with custom data and abi
 
 ## Fun Examples from Our Hub
 
-- [AI Joke Generator](https://chatbotkit.com/hub/skillsets/clxvu5cic0yht4ccj026rc6ta)
+- [AI Joke Generator](https://chatbotkit.com/hub/skillsets/ai-joke-generator)
+- [AI Image Generator](https://chatbotkit.com/hub/skillsets/ai-image-generator)
