@@ -62,3 +62,11 @@ ChatBotKit helps you create conversational AI solutions with custom data and abi
 - [AI Logo Generator](https://chatbotkit.com/hub/skillsets/ai-logo-generator)
 - [AI Joke Generator](https://chatbotkit.com/hub/skillsets/ai-joke-generator)
 - [AI Image Generator](https://chatbotkit.com/hub/skillsets/ai-image-generator)
+
+# What's New (RSS Feeds)
+
+- [ChatBotKit Changelog](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fchatbotkit.com%2Fchangelog%2Frss.xml)
+- [ChatBotKit Reflections](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fchatbotkit.com%2Freflections%2Frss.xml)
+- [ChatBotKit Examples](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fchatbotkit.com%2Fexamples%2Frss.xml)
+- [ChatBotKit Latest Tutorials](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fchatbotkit.com%2Ftutorials%2Frss.xml)
+- [ChatBotKit Latest Docs](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fchatbotkit.com%2Fdocs%2Frss.xml)
