@@ -59,13 +59,6 @@ ChatBotKit helps you create conversational AI solutions with custom data and abi
 - [PeopleAI](https://people.ai/) - Experience history like never before with our AI chatbots.
 - [AskNotion](https://asknotion.app/) - Create your personal ChatGPT-like chatbot that is trained on your Notion Pages.
 
-## Fun Examples from Our Hub
-
-- [Weather Tools](https://chatbotkit.com/hub/skillsets/weather-tools)
-- [AI Logo Generator](https://chatbotkit.com/hub/skillsets/ai-logo-generator)
-- [AI Joke Generator](https://chatbotkit.com/hub/skillsets/ai-joke-generator)
-- [AI Image Generator](https://chatbotkit.com/hub/skillsets/ai-image-generator)
-
 # What's New (RSS Feeds)
 
 - [ChatBotKit Changelog](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fchatbotkit.com%2Fchangelog%2Frss.xml) - Get in-depth insights into the latest features, improvements, and advancements, ensuring you're always in the loop with the evolution of our technology. Stay connected as we constantly ship updates around the clock to enhance your experience.
