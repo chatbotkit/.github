@@ -55,6 +55,7 @@ ChatBotKit helps you create conversational AI solutions with custom data and abi
 - 💵 **Simple Pricing**: Transparent and straightforward pricing.
 
 ## Built With ChatBotKit
+- [AfterDark](https://afterdark.so/) - AI-powered creative platform.
 - [FormShare](https://formshare.ai/) - Bring your forms to life with generative UI.
 - [PeopleAI](https://people.ai/) - Experience history like never before with our AI chatbots.
 - [AskNotion](https://asknotion.app/) - Create your personal ChatGPT-like chatbot that is trained on your Notion Pages.
