@@ -31,9 +31,10 @@ ChatBotKit helps you create conversational AI solutions with custom data and abi
 
 ## Other Tools
 
-| Package                                                                                 | Version                                                                                                 | Description                                   |
-| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [create-cbk-app](https://github.com/chatbotkit/node-sdk/tree/main/tools/create-cbk-app) | [![NPM](https://img.shields.io/npm/v/create-cbk-app.svg)](https://www.npmjs.com/package/create-cbk-app) | A quick tool to create a new CBK application. |
+| Package                                                                                                      | Version                                                                                                                                                                               | Description                                   |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| [create-cbk-app](https://github.com/chatbotkit/node-sdk/tree/main/tools/create-cbk-app)                      | [![NPM](https://img.shields.io/npm/v/create-cbk-app.svg)](https://www.npmjs.com/package/create-cbk-app)                                                                               | A quick tool to create a new CBK application. |
+| [terraform-provider-chatbotkit](https://github.com/chatbotkit/terraform-provider-chatbotkit)                 | [![Terraform Registry](https://img.shields.io/badge/Terraform-Registry-purple.svg)](https://registry.terraform.io/providers/chatbotkit/chatbotkit/latest)                            | The ChatBotKit Terraform Provider.            |
 
 ## ChatBotKit Capabilities
 
