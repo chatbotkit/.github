@@ -47,7 +47,7 @@ ChatBotKit helps you create conversational AI solutions with custom data and abi
 
 | Package                                                                                                      | Version                                                                                                                                                                               | Description                                   |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [rook](https://github.com/chatbotkit/rook)                      | [![Go Version](https://img.shields.io/badge/Go-Version-blue.svg)](https://registry.terraform.io/providers/chatbotkit/chatbotkit/latest)                                                                             | AI bug hunting harness |
+| [rook](https://github.com/chatbotkit/rook)                      | [![Go Version](https://img.shields.io/badge/Go-Version-blue.svg)](https://github.com/chatbotkit/rook/blob/main/VERSION)                                                                             | AI bug hunting harness |
 
 ## ChatBotKit Capabilities
 
