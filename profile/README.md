@@ -43,6 +43,12 @@ ChatBotKit helps you create conversational AI solutions with custom data and abi
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | [create-cbk-app](https://github.com/chatbotkit/node-sdk/tree/main/tools/create-cbk-app)                      | [![NPM](https://img.shields.io/npm/v/create-cbk-app.svg)](https://www.npmjs.com/package/create-cbk-app)                                                                               | A quick tool to create a new CBK application. |
 
+## Incubator
+
+| Package                                                                                                      | Version                                                                                                                                                                               | Description                                   |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| [rook](https://github.com/chatbotkit/rook)                      | [![Go Version](https://img.shields.io/badge/Go-Version-blue.svg)](https://registry.terraform.io/providers/chatbotkit/chatbotkit/latest)                                                                             | AI bug hunting harness |
+
 ## ChatBotKit Capabilities
 
 - 🔄 **Multi-modal Support**: Support various language and image models from all vendors such as OpenAI, Anthropic, Mistral, AWS, Google and others.
