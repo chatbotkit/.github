@@ -3,7 +3,6 @@
 [![CBK.AI](https://img.shields.io/badge/credits-CBK.AI-blue.svg)](https://cbk.ai)
 [![Email](https://img.shields.io/badge/Email-Support-blue?logo=mail.ru)](mailto:support@chatbotkit.com)
 [![Discord](https://img.shields.io/badge/Discord-Support-blue?logo=discord)](https://go.cbk.ai/discord)
-[![Slack](https://img.shields.io/badge/Slack-Support-blue?logo=slack)](https://go.cbk.ai/slack)
 ![Views](https://komarev.com/ghpvc/?username=chatbotkit&color=blueviolet&style=flat-square&label=Views)
 
 ```
@@ -21,34 +20,34 @@ ChatBotKit helps you create conversational AI solutions with custom data and abi
 
 ## SDKs
 
-| Package                                                                                    | Version                                                                                                             | Description                                    |
-| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| [@chatbotkit/sdk](https://github.com/chatbotkit/node-sdk/tree/main/packages/sdk)           | [![NPM](https://img.shields.io/npm/v/@chatbotkit/sdk.svg)](https://www.npmjs.com/package/@chatbotkit/sdk)           | The ChatBotKit API SDK.                        |
-| [@chatbotkit/agent](https://github.com/chatbotkit/node-sdk/tree/main/packages/agent)           | [![NPM](https://img.shields.io/npm/v/@chatbotkit/agent.svg)](https://www.npmjs.com/package/@chatbotkit/agent)           | The ChatBotKit Agent SDK.                          |
-| [@chatbotkit/cli](https://github.com/chatbotkit/node-sdk/tree/main/packages/cli)           | [![NPM](https://img.shields.io/npm/v/@chatbotkit/cli.svg)](https://www.npmjs.com/package/@chatbotkit/cli)           | The ChatBotKit CLI.                            |
-| [@chatbotkit/react](https://github.com/chatbotkit/node-sdk/tree/main/packages/react)       | [![NPM](https://img.shields.io/npm/v/@chatbotkit/react.svg)](https://www.npmjs.com/package/@chatbotkit/react)       | The ChatBotKit React SDK.                      |
-| [@chatbotkit/next](https://github.com/chatbotkit/node-sdk/tree/main/packages/next)         | [![NPM](https://img.shields.io/npm/v/@chatbotkit/next.svg)](https://www.npmjs.com/package/@chatbotkit/next)         | The ChatBotKit Next.js SDK.                    |
-| [@chatbotkit/nextauth](https://github.com/chatbotkit/node-sdk/tree/main/packages/nextauth) | [![NPM](https://img.shields.io/npm/v/@chatbotkit/nextauth.svg)](https://www.npmjs.com/package/@chatbotkit/nextauth) | The ChatBotKit NextAuth.js SDK.                |
-| [@chatbotkit/fetch](https://github.com/chatbotkit/node-sdk/tree/main/packages/fetch)       | [![NPM](https://img.shields.io/npm/v/@chatbotkit/fetch.svg)](https://www.npmjs.com/package/@chatbotkit/fetch)       | The ChatBotKit isometric fetch implementation. |
+| Package                                                                                    | Version                                                                                                                       | Description                                    |
+| ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [@chatbotkit/sdk](https://github.com/chatbotkit/node-sdk/tree/main/packages/sdk)           | [![NPM](https://img.shields.io/npm/v/@chatbotkit/sdk.svg)](https://www.npmjs.com/package/@chatbotkit/sdk)                     | The ChatBotKit API SDK.                        |
+| [@chatbotkit/agent](https://github.com/chatbotkit/node-sdk/tree/main/packages/agent)       | [![NPM](https://img.shields.io/npm/v/@chatbotkit/agent.svg)](https://www.npmjs.com/package/@chatbotkit/agent)                 | The ChatBotKit Agent SDK.                      |
+| [@chatbotkit/cli](https://github.com/chatbotkit/node-sdk/tree/main/packages/cli)           | [![NPM](https://img.shields.io/npm/v/@chatbotkit/cli.svg)](https://www.npmjs.com/package/@chatbotkit/cli)                     | The ChatBotKit CLI.                            |
+| [@chatbotkit/react](https://github.com/chatbotkit/node-sdk/tree/main/packages/react)       | [![NPM](https://img.shields.io/npm/v/@chatbotkit/react.svg)](https://www.npmjs.com/package/@chatbotkit/react)                 | The ChatBotKit React SDK.                      |
+| [@chatbotkit/next](https://github.com/chatbotkit/node-sdk/tree/main/packages/next)         | [![NPM](https://img.shields.io/npm/v/@chatbotkit/next.svg)](https://www.npmjs.com/package/@chatbotkit/next)                   | The ChatBotKit Next.js SDK.                    |
+| [@chatbotkit/nextauth](https://github.com/chatbotkit/node-sdk/tree/main/packages/nextauth) | [![NPM](https://img.shields.io/npm/v/@chatbotkit/nextauth.svg)](https://www.npmjs.com/package/@chatbotkit/nextauth)           | The ChatBotKit NextAuth.js SDK.                |
+| [@chatbotkit/fetch](https://github.com/chatbotkit/node-sdk/tree/main/packages/fetch)       | [![NPM](https://img.shields.io/npm/v/@chatbotkit/fetch.svg)](https://www.npmjs.com/package/@chatbotkit/fetch)                 | The ChatBotKit isometric fetch implementation. |
 | [chatbotkit/go-sdk](https://github.com/chatbotkit/go-sdk)                                  | [![Go Reference](https://pkg.go.dev/badge/github.com/chatbotkit/go-sdk.svg)](https://pkg.go.dev/github.com/chatbotkit/go-sdk) | The ChatBotKit Go SDK.                         |
 
 ## IaC
 
-| Package                                                                                                      | Version                                                                                                                                                                               | Description                                   |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [terraform-provider-chatbotkit](https://github.com/chatbotkit/terraform-provider-chatbotkit)                 | [![Terraform Registry](https://img.shields.io/badge/Terraform-Registry-purple.svg)](https://registry.terraform.io/providers/chatbotkit/chatbotkit/latest)                            | The ChatBotKit Terraform Provider.            |
+| Package                                                                                      | Version                                                                                                                                                   | Description                        |
+| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| [terraform-provider-chatbotkit](https://github.com/chatbotkit/terraform-provider-chatbotkit) | [![Terraform Registry](https://img.shields.io/badge/Terraform-Registry-purple.svg)](https://registry.terraform.io/providers/chatbotkit/chatbotkit/latest) | The ChatBotKit Terraform Provider. |
 
 ## Other Tools
 
-| Package                                                                                                      | Version                                                                                                                                                                               | Description                                   |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [create-cbk-app](https://github.com/chatbotkit/node-sdk/tree/main/tools/create-cbk-app)                      | [![NPM](https://img.shields.io/npm/v/create-cbk-app.svg)](https://www.npmjs.com/package/create-cbk-app)                                                                               | A quick tool to create a new CBK application. |
+| Package                                                                                 | Version                                                                                                 | Description                                   |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| [create-cbk-app](https://github.com/chatbotkit/node-sdk/tree/main/tools/create-cbk-app) | [![NPM](https://img.shields.io/npm/v/create-cbk-app.svg)](https://www.npmjs.com/package/create-cbk-app) | A quick tool to create a new CBK application. |
 
 ## Incubator
 
-| Package                                                                                                      | Version                                                                                                                                                                               | Description                                   |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [rook](https://github.com/chatbotkit/rook)                      | [![Go Version](https://img.shields.io/badge/Go-Version-blue.svg)](https://github.com/chatbotkit/rook/blob/main/VERSION)                                                                             | AI bug hunting harness |
+| Package                                    | Version                                                                                                                 | Description            |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| [rook](https://github.com/chatbotkit/rook) | [![Go Version](https://img.shields.io/badge/Go-Version-blue.svg)](https://github.com/chatbotkit/rook/blob/main/VERSION) | AI bug hunting harness |
 
 ## ChatBotKit Capabilities
 
@@ -70,6 +69,7 @@ ChatBotKit helps you create conversational AI solutions with custom data and abi
 - 💵 **Simple Pricing**: Transparent and straightforward pricing.
 
 ## Built With ChatBotKit
+
 - [AfterDark](https://afterdark.so/) - AI-powered creative platform.
 - [FormShare](https://formshare.ai/) - Bring your forms to life with generative UI.
 - [PeopleAI](https://people.ai/) - Experience history like never before with our AI chatbots.
