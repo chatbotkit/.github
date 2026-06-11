@@ -30,6 +30,7 @@ ChatBotKit helps you create conversational AI solutions with custom data and abi
 | [@chatbotkit/nextauth](https://github.com/chatbotkit/node-sdk/tree/main/packages/nextauth) | [![NPM](https://img.shields.io/npm/v/@chatbotkit/nextauth.svg)](https://www.npmjs.com/package/@chatbotkit/nextauth)           | The ChatBotKit NextAuth.js SDK.                |
 | [@chatbotkit/fetch](https://github.com/chatbotkit/node-sdk/tree/main/packages/fetch)       | [![NPM](https://img.shields.io/npm/v/@chatbotkit/fetch.svg)](https://www.npmjs.com/package/@chatbotkit/fetch)                 | The ChatBotKit isometric fetch implementation. |
 | [chatbotkit/go-sdk](https://github.com/chatbotkit/go-sdk)                                  | [![Go Reference](https://pkg.go.dev/badge/github.com/chatbotkit/go-sdk.svg)](https://pkg.go.dev/github.com/chatbotkit/go-sdk) | The ChatBotKit Go SDK.                         |
+| [chatbotkit/python-sdk](https://github.com/chatbotkit/python-sdk)                          | [![PyPI](https://img.shields.io/pypi/v/chatbotkit.svg)](https://pypi.org/project/chatbotkit/)                                | The ChatBotKit Python SDK.                     |
 
 ## IaC
 
