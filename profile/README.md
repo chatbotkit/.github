@@ -18,6 +18,8 @@
 
 ChatBotKit helps you create conversational AI solutions with custom data and abilities to communicate naturally with users in your App, Website, Slack, Discord WhatsApp and Facebook Messenger.
 
+https://github.com/user-attachments/assets/dc9091e0-8c98-49d1-8be7-cc5dad1abe9f
+
 ## SDKs
 
 | Package                                                                                    | Version                                                                                                                       | Description                                    |
