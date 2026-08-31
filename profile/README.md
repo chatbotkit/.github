@@ -16,13 +16,15 @@
     "Y8888P"  8888888P"  888    Y88b .ai
 ```
 
-ChatBotKit is an AI platform in a Box — a modern, sovereign AI backend for
-products and enterprise deployments. Build agents with custom data and
-abilities and run them in your app, website, Slack, Discord, WhatsApp and
-Facebook Messenger — fully managed at [chatbotkit.com](https://chatbotkit.com)
-or self-hosted on your own infrastructure.
+A modern, sovereign AI backend for products and enterprise deployments. Get
+the breadth of a managed AI platform with control over the infrastructure,
+data and extension points. Use it behind customer products, internal systems,
+white-label environments and regulated deployments without handing the AI
+control plane to a managed provider.
 
-https://github.com/user-attachments/assets/dc9091e0-8c98-49d1-8be7-cc5dad1abe9f
+<p align="center">
+  <img width="2064" height="1400" alt="AI Platform" src="https://github.com/user-attachments/assets/835eb12c-6640-43b0-a4f3-56c9db8bf1d7" />
+</p>
 
 ## SDKs
 
@@ -51,11 +53,6 @@ https://github.com/user-attachments/assets/dc9091e0-8c98-49d1-8be7-cc5dad1abe9f
 | [create-cbk-app](https://github.com/chatbotkit/node-sdk/tree/main/tools/create-cbk-app) | [![NPM](https://img.shields.io/npm/v/create-cbk-app.svg)](https://www.npmjs.com/package/create-cbk-app) | A quick tool to create a new CBK application. |
 
 ## A complete platform
-
-Get the breadth of a managed AI platform with control over the infrastructure,
-data and extension points. Use it behind customer products, internal systems,
-white-label environments and regulated deployments without handing the AI
-control plane to a managed provider.
 
 - Agent builder and runtime
 - Multi-provider model gateway
