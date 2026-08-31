@@ -16,7 +16,11 @@
     "Y8888P"  8888888P"  888    Y88b .ai
 ```
 
-ChatBotKit helps you create conversational AI solutions with custom data and abilities to communicate naturally with users in your App, Website, Slack, Discord WhatsApp and Facebook Messenger.
+ChatBotKit is an AI platform in a Box — a modern, sovereign AI backend for
+products and enterprise deployments. Build agents with custom data and
+abilities and run them in your app, website, Slack, Discord, WhatsApp and
+Facebook Messenger — fully managed at [chatbotkit.com](https://chatbotkit.com)
+or self-hosted on your own infrastructure.
 
 https://github.com/user-attachments/assets/dc9091e0-8c98-49d1-8be7-cc5dad1abe9f
 
@@ -46,35 +50,39 @@ https://github.com/user-attachments/assets/dc9091e0-8c98-49d1-8be7-cc5dad1abe9f
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | [create-cbk-app](https://github.com/chatbotkit/node-sdk/tree/main/tools/create-cbk-app) | [![NPM](https://img.shields.io/npm/v/create-cbk-app.svg)](https://www.npmjs.com/package/create-cbk-app) | A quick tool to create a new CBK application. |
 
-## ChatBotKit Capabilities
+## A complete platform
 
-- 🔄 **Multi-modal Support**: Support various language and image models from all vendors such as OpenAI, Anthropic, Mistral, AWS, Google and others.
-- 🌍 **Multi-language Support**: Allowing for easy customization and use in diverse linguistic contexts.
-- 💬 **Conversation Management**: Manage complex conversation flaws with ease.
-- 🗨 **Chat History**: Review and reference past conversations.
-- 💾 **Custom Datasets**: Organize data for bot responses.
-- 💡 **Custom Skillset**: Equip chatbots with unique abilities like image generation or web fetching.
-- 📄 **Document File Importing**: Import various document file types into chatbot datasets.
-- 🎵 **Media File Importing**: Import a range of media file formats into chatbot datasets.
-- 🌐 **Widget Integration**: Seamlessly embed chatbots on websites with customizable options.
-- 💬 **Slack, Discord, WhatsApp Bot Integrations**: Easy integration with popular messaging platforms.
-- 🗺 **Sitemap Integration**: Ingest website content into a searchable knowledge base.
-- 🎥 **Streaming**: Enable/disable streaming capabilities.
-- 🔒 **Data Security**: Robust measures to protect user data.
-- 🕵 **Privacy Focus**: Strong privacy controls to ensure responsible data handling.
-- 🚫 **Content Moderation**: Automatic scanning and flagging of abusive content.
-- 💵 **Simple Pricing**: Transparent and straightforward pricing.
+Get the breadth of a managed AI platform with control over the infrastructure,
+data and extension points. Use it behind customer products, internal systems,
+white-label environments and regulated deployments without handing the AI
+control plane to a managed provider.
+
+- Agent builder and runtime
+- Multi-provider model gateway
+- Knowledge ingestion and retrieval
+- More than 200 typed integrations
+- MCP, OpenAPI, GraphQL and code tools
+- Sandboxed code and shell execution
+- Web widgets, portals and messaging channels
+- REST and GraphQL APIs, webhooks and generated client types
+- Authentication, users, teams, contacts and multi-tenant identity
+- Access control, moderation, PII protection and audit
+- Traces, events, ratings, usage and operational logs
+- Replaceable database, storage, cache, queue and vector infrastructure
+
+## Run it
+
+Run the complete prebuilt stack with one command - no checkout, no build:
+
+```bash
+docker compose -f oci://ghcr.io/chatbotkit/platform-community:latest up -d
+```
+
+Open <http://localhost:3000>. Sign in with any email address and read the
+six-digit code from the platform container log.
 
 ## Built With ChatBotKit
 
 - [AfterDark](https://afterdark.so/) - AI-powered creative platform.
 - [FormShare](https://formshare.ai/) - Bring your forms to life with generative UI.
 - [PeopleAI](https://people.ai/) - Experience history like never before with our AI chatbots.
-
-# What's New (RSS Feeds)
-
-- [ChatBotKit Changelog](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fchatbotkit.com%2Fchangelog%2Frss.xml) - Get in-depth insights into the latest features, improvements, and advancements, ensuring you're always in the loop with the evolution of our technology. Stay connected as we constantly ship updates around the clock to enhance your experience.
-- [ChatBotKit Reflections](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fchatbotkit.com%2Freflections%2Frss.xml) - Explore our journey through the evolving world of chatbots, the technology that powers them, and the honest reflections of our team's experiences.
-- [ChatBotKit Examples](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fchatbotkit.com%2Fexamples%2Frss.xml) - Explore the possibilities of conversational AI technology with our collection of chatbot examples. Let your imagination run wild and discover new ideas as you learn and experiment in our virtual environment.
-- [ChatBotKit Latest Tutorials](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fchatbotkit.com%2Ftutorials%2Frss.xml) - Navigate through our interactive tutorials to gain hands-on experience in building versatile chatbots. Each tutorial is designed to guide you from basics to advanced techniques in conversational AI.
-- [ChatBotKit Latest Docs](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fchatbotkit.com%2Fdocs%2Frss.xml) - Embark on a journey through our comprehensive documentation, empowering you to harness the full potential of conversational AI with ChatBotKit.
