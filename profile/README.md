@@ -19,8 +19,8 @@
 A modern, sovereign AI backend for products and enterprise deployments. Get
 the breadth of a managed AI platform with control over the infrastructure,
 data and extension points. Use it behind customer products, internal systems,
-white-label environments and regulated deployments without handing the AI
-control plane to a managed provider.
+and regulated deployments without handing the AI control plane to a managed
+provider.
 
 <p align="center">
   <img width="2064" height="1400" alt="AI Platform" src="https://github.com/user-attachments/assets/835eb12c-6640-43b0-a4f3-56c9db8bf1d7" />
@@ -62,6 +62,7 @@ control plane to a managed provider.
 - Sandboxed code and shell execution
 - Web widgets, portals and messaging channels
 - REST and GraphQL APIs, webhooks and generated client types
+- Node.js, Python and Go SDKs and a Terraform provider
 - Authentication, users, teams, contacts and multi-tenant identity
 - Access control, moderation, PII protection and audit
 - Traces, events, ratings, usage and operational logs
@@ -72,11 +73,15 @@ control plane to a managed provider.
 Run the complete prebuilt stack with one command - no checkout, no build:
 
 ```bash
-docker compose -f oci://ghcr.io/chatbotkit/platform-community:latest up -d
+docker compose -f oci://ghcr.io/chatbotkit/platform-community:latest up
 ```
 
 Open <http://localhost:3000>. Sign in with any email address and read the
-six-digit code from the platform container log.
+six-digit code from the platform container log:
+
+```bash
+docker compose -f oci://ghcr.io/chatbotkit/platform-community:latest logs platform
+```
 
 ## Built With ChatBotKit
 
