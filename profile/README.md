@@ -26,6 +26,12 @@ provider.
   <img width="2064" height="1400" alt="AI Platform" src="https://github.com/user-attachments/assets/714f6a5c-5b82-4b2a-af6a-51a1ce7260a1" />
 </p>
 
+## Platform
+
+| Repository                                                    | Version                                                                                                                                                        | Description                                                                                  |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| [chatbotkit/platform](https://github.com/chatbotkit/platform) | [![GHCR](https://img.shields.io/badge/ghcr.io-platform--community-blue?logo=docker)](https://github.com/chatbotkit/platform/pkgs/container/platform-community) | The AI platform in a box: agents, model gateway, knowledge, integrations, APIs and channels. |
+
 ## SDKs
 
 | Package                                                                                    | Version                                                                                                                       | Description                                    |
