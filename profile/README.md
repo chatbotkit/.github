@@ -28,9 +28,9 @@ provider.
 
 ## Platform
 
-| Repository                                                    | Version                                                                                                                                                        | Description                                                                                  |
-| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| [chatbotkit/platform](https://github.com/chatbotkit/platform) | [![GHCR](https://img.shields.io/badge/ghcr.io-platform--community-blue?logo=docker)](https://github.com/chatbotkit/platform/pkgs/container/platform-community) | The AI platform in a box: agents, model gateway, knowledge, integrations, APIs and channels. |
+| Repository                                                    | Version                                                                                                                                                | Description                    |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------ |
+| [chatbotkit/platform](https://github.com/chatbotkit/platform) | [![GHCR](https://img.shields.io/badge/GHCR-latest-blue.svg?logo=docker)](https://github.com/chatbotkit/platform/pkgs/container/platform-community) | The ChatBotKit AI Platform.    |
 
 ## SDKs
 
