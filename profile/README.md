@@ -23,7 +23,7 @@ and regulated deployments without handing the AI control plane to a managed
 provider.
 
 <p align="center">
-  <img width="2064" height="1400" alt="AI Platform" src="https://github.com/user-attachments/assets/dafd01f8-619d-4c78-8832-29691f462b57" />
+  <img width="2064" height="1400" alt="AI Platform" src="https://github.com/user-attachments/assets/714f6a5c-5b82-4b2a-af6a-51a1ce7260a1" />
 </p>
 
 ## SDKs
