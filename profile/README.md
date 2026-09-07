@@ -28,9 +28,15 @@ provider.
 
 ## Platform
 
-| Repository                                                    | Version                                                                                                                                                | Description                    |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------ |
-| [chatbotkit/platform](https://github.com/chatbotkit/platform) | [![GHCR](https://img.shields.io/badge/GHCR-latest-blue.svg?logo=docker)](https://github.com/chatbotkit/platform/pkgs/container/platform-community) | The ChatBotKit AI Platform.    |
+| Repository                                                    | Version                                                                                                                                            | Description                 |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [chatbotkit/platform](https://github.com/chatbotkit/platform) | [![GHCR](https://img.shields.io/badge/GHCR-latest-blue.svg?logo=docker)](https://github.com/chatbotkit/platform/pkgs/container/platform-community) | The ChatBotKit AI Platform. |
+
+## Desktop
+
+| Repository                                                | Version                                                                                                                                             | Description                                                      |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [chatbotkit/studio](https://github.com/chatbotkit/studio) | [![GitHub Release](https://img.shields.io/github/v/release/chatbotkit/studio.svg?logo=apple)](https://github.com/chatbotkit/studio/releases/latest) | The ChatBotKit AI Platform in a native macOS app. Apple silicon. |
 
 ## SDKs
 
