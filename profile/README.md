@@ -28,10 +28,9 @@ provider.
 
 ## Platform
 
-| Repository                                                    | Version                                                                                                                                            | Description                                 |
-| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| [chatbotkit/platform](https://github.com/chatbotkit/platform) | [![GHCR](https://img.shields.io/badge/GHCR-latest-blue.svg?logo=docker)](https://github.com/chatbotkit/platform/pkgs/container/platform-community) | A modern, sovereign AI backend for products |
-| and enterprise deployments.                                   |
+| Repository                                                    | Version                                                                                                                                            | Description                                                             |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [chatbotkit/platform](https://github.com/chatbotkit/platform) | [![GHCR](https://img.shields.io/badge/GHCR-latest-blue.svg?logo=docker)](https://github.com/chatbotkit/platform/pkgs/container/platform-community) | A modern, sovereign AI backend for products and enterprise deployments. |
 
 ## Desktop
 
