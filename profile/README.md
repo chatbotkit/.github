@@ -74,7 +74,10 @@ provider.
 - Sandboxed code and shell execution
 - Web widgets, portals and messaging channels
 - REST and GraphQL APIs, webhooks and generated client types
-- Node.js, Python and Go SDKs and a Terraform provider
+- [Node.js](https://github.com/chatbotkit/node-sdk),
+  [Python](https://github.com/chatbotkit/python-sdk) and
+  [Go](https://github.com/chatbotkit/go-sdk) SDKs and a
+  [Terraform provider](https://github.com/chatbotkit/terraform-provider-chatbotkit)
 - Authentication, users, teams, contacts and multi-tenant identity
 - Access control, moderation, PII protection and audit
 - Traces, events, ratings, usage and operational logs
@@ -94,6 +97,14 @@ six-digit code from the platform container log:
 ```bash
 docker compose -f oci://ghcr.io/chatbotkit/platform-community:latest logs platform
 ```
+
+On an Apple silicon Mac you can skip Docker altogether:
+[CBK Studio](https://github.com/chatbotkit/studio) is a native macOS
+app that runs this same platform in an app-private VM, with model providers,
+logs and updates managed from the app.
+
+Or skip running it yourself: [ChatBotKit](https://chatbotkit.com) is the
+managed, hosted edition of this same platform.
 
 ## Built With ChatBotKit
 
