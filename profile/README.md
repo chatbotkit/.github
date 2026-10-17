@@ -1,7 +1,5 @@
 [![CBK.AI](https://img.shields.io/badge/credits-CBK.AI-blue.svg)](https://cbk.ai)
 [![Email](https://img.shields.io/badge/Email-Support-blue?logo=mail.ru)](mailto:support@cbk.ai)
-[![Discord](https://img.shields.io/badge/Discord-Support-blue?logo=discord)](https://go.cbk.ai/discord)
-![Views](https://komarev.com/ghpvc/?username=chatbotkit&color=blueviolet&style=flat-square&label=Views)
 [![Follow on LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin)](https://www.linkedin.com/company/chatbotkit)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/chatbotkit.svg?logo=twitter)](https://twitter.com/chatbotkit)
 
