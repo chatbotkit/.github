@@ -24,18 +24,6 @@ provider.
   <img width="4281" height="2676" alt="image" src="https://github.com/user-attachments/assets/64aa0234-3d78-4ba5-8c55-156e6ed9021f" />
 </p>
 
-## Platform
-
-| Repository                                                    | Version                                                                                                                                            | Description                                                             |
-| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| [chatbotkit/platform](https://github.com/chatbotkit/platform) | [![GHCR](https://img.shields.io/badge/GHCR-latest-blue.svg?logo=docker)](https://github.com/chatbotkit/platform/pkgs/container/platform-community) | A modern, sovereign AI backend for products and enterprise deployments. |
-
-## Desktop
-
-| Repository                                                | Version                                                                                                                                             | Description                                                       |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [chatbotkit/studio](https://github.com/chatbotkit/studio) | [![GitHub Release](https://img.shields.io/github/v/release/chatbotkit/studio.svg?logo=apple)](https://github.com/chatbotkit/studio/releases/latest) | A modern, sovereign AI workspace running locally on your desktop. |
-
 ## SDKs
 
 | Package                                                                                    | Version                                                                                                                       | Description                                    |
@@ -81,28 +69,10 @@ provider.
 - Traces, events, ratings, usage and operational logs
 - Replaceable database, storage, cache, queue and vector infrastructure
 
-## Run it
+## Get started
 
-Run the complete prebuilt stack with one command - no checkout, no build:
-
-```bash
-docker compose -f oci://ghcr.io/chatbotkit/platform-community:latest up
-```
-
-Open <http://localhost:3000>. Sign in with any email address and read the
-six-digit code from the platform container log:
-
-```bash
-docker compose -f oci://ghcr.io/chatbotkit/platform-community:latest logs platform
-```
-
-On an Apple silicon Mac you can skip Docker altogether:
-[CBK Studio](https://github.com/chatbotkit/studio) is a native macOS
-app that runs this same platform in an app-private VM, with model providers,
-logs and updates managed from the app.
-
-Or skip running it yourself: [ChatBotKit](https://chatbotkit.com) is the
-managed, hosted edition of this same platform.
+[ChatBotKit](https://chatbotkit.com) is the managed, hosted edition of this
+platform.
 
 ## Built With ChatBotKit
 
